@@ -36,6 +36,7 @@ void geom(triangle v2g i[3], inout TriangleStream<g2f> triStream)
         o.pos  = i[j].pos;
         half3 axis = half3(0,0,0);
         axis[j] = min(distance(scrpos[(j + 1) % 3], scrpos[j]),distance(scrpos[(j + 2) % 3], scrpos[j]));
+        axis[j] = max(min(distance(scrpos[(j + 1) % 3], scrpos[(j + 2) % 3]), axis[j]), axis[j]);
         o.axis = axis;
         triStream.Append(o);
     }
