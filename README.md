@@ -1,7 +1,7 @@
 ﻿# WireframeShader
 ワイヤーフレームシェーダー<br>
 
-<img src="http://many.chu.jp/Unity/WireframeShader/a/Sample2.png" alt="サンプル">
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/UnityChan_02.gif" alt="サンプル">
 
 Copyright(C) 2022 [㊥Maruchu](https://twitter.com/Maruchu "㊥Maruchu")
 
@@ -23,7 +23,34 @@ WireframeShader のフォルダにサンプルのシーンが入っているの�
 
 > WireframeShader/Sample.unity　：　サンプルシーン
 
-<img src="http://many.chu.jp/Unity/WireframeShader/a/Sample1.png" alt="サンプル">
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/Sample1.png" alt="サンプル">
+
+
+<br><br><br><br>
+## 使い方
+
+Hierarchy タブで見た目を変更したいオブジェクトを選んで、<br>
+Inspector タブから SwtWireframeShader スクリプトを AddComponent してみてください。<br>
+<br>
+選択されているオブジェクトの下にあるモデルの見た目がワイヤーフレームに変更されます。<br>
+<br><br>
+<br>
+
+Inspector からスクリプトを追加する場合
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/AddComponent_02.png" alt="Inspector からスクリプトを追加する場合">
+<br><br>
+
+直接スクリプトを Inspector に追加する場合
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/AddComponent_01.png" alt="直接スクリプトを Inspector に追加する場合
+">
+<br><br>
+<br>
+
+スクリプトをつけたあとで他のノードを追加するなどで 再反映したい場合、<br>
+Inspector の「ワイヤーフレーム再反映」ボタンを押してください<br>
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/Refresh.png" alt="Projectタブから操作する場合
+">
+
 
 
 <br><br><br><br>
