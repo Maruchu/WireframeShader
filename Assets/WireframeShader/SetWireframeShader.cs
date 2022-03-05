@@ -11,9 +11,9 @@
 
 
 using UnityEngine;
-using UnityEngine.Profiling;
-using System.Collections.Generic;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
 
 
 

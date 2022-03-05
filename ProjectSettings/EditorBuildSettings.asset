@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/WireframeShader/Sample.unity
+    guid: c3d659acd83f5b14d8e054beecaf59cb
   m_configObjects: {}
