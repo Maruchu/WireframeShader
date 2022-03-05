@@ -1,7 +1,7 @@
 ﻿# WireframeShader
 ワイヤーフレームシェーダー<br>
 
-<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/Sample2.png" alt="サンプル">
+<img src="http://many.chu.jp/Unity/GitHub/WireframeShader/a/UnityChan_02.gif" alt="サンプル">
 
 Copyright(C) 2022 [㊥Maruchu](https://twitter.com/Maruchu "㊥Maruchu")
 
